@@ -1,0 +1,12 @@
+# Результаты сборки
+bin/
+obj/
+
+# Настройки IDE
+.idea/
+.vs/
+*.user
+
+# Локальные настройки и секреты
+appsettings.Development.json
+payment-webhook-project-charter.md
